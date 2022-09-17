@@ -5,7 +5,7 @@
 - 📫 How to reach me ：任意仓库发表issue即可
 - ![oo](https://img.shields.io/badge/00%E5%90%8E-%E5%89%8D%E7%AB%AF-red) ![learn](https://img.shields.io/badge/%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0-Vue%2BReact%2BTS-green)
 
-[![YihaoCCC's GitHub stats](https://github-readme-stats.vercel.app/api?username=YihaoCCC&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)![YihaoCCC's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=YihaoCCC&show_icons=true&count_private=true&layout=compact&hide_border=true&langs_count=10)
+![YihaoCCC's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=YihaoCCC&show_icons=true&count_private=true&layout=compact&hide_border=true&langs_count=10)[![YihaoCCC's GitHub stats](https://github-readme-stats.vercel.app/api?username=YihaoCCC&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
